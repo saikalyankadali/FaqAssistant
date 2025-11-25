@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Project\\FaqAssistant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\services\\openrouteraiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\services\\openrouteraiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\entities\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\entities\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\dtos\\faqdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\dtos\\faqdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\entities\\faqtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\entities\\faqtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\dtos\\tagdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\dtos\\tagdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\dtos\\categorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\dtos\\categorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\data\\migrations\\202501010001_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\data\\migrations\\202501010001_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\controllers\\faqscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\controllers\\faqscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|f:\\project\\faqassistant\\faqassistant\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77B471-3B23-4194-8EEA-3B2FD9B192C6}|FaqAssistant\\FaqAssistant.csproj|solutionrelative:faqassistant\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\README.md",
+              "RelativeDocumentMoniker": "FaqAssistant\\README.md",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\README.md",
+              "RelativeToolTip": "FaqAssistant\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-25T15:33:43.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\appsettings.json",
+              "RelativeDocumentMoniker": "FaqAssistant\\appsettings.json",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\appsettings.json",
+              "RelativeToolTip": "FaqAssistant\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T15:25:14.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\Program.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\Program.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\Program.cs",
+              "RelativeToolTip": "FaqAssistant\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:21:00.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\Profiles\\MappingProfile.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "FaqAssistant\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:47:05.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OpenRouterAiService.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\Services\\OpenRouterAiService.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\Services\\OpenRouterAiService.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\Services\\OpenRouterAiService.cs",
+              "RelativeToolTip": "FaqAssistant\\Services\\OpenRouterAiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:47:32.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FaqAssistant\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:44:23.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\Entities\\User.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\Entities\\User.cs",
+              "RelativeToolTip": "FaqAssistant\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:45:45.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AiController.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\Controllers\\AiController.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\Controllers\\AiController.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\Controllers\\AiController.cs",
+              "RelativeToolTip": "FaqAssistant\\Controllers\\AiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:43:43.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Faq.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\Entities\\Faq.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\Entities\\Faq.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\Entities\\Faq.cs",
+              "RelativeToolTip": "FaqAssistant\\Entities\\Faq.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:45:01.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FaqDtos.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\DTOs\\FaqDtos.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\DTOs\\FaqDtos.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\DTOs\\FaqDtos.cs",
+              "RelativeToolTip": "FaqAssistant\\DTOs\\FaqDtos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:46:06.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FaqTag.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\Entities\\FaqTag.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\Entities\\FaqTag.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\Entities\\FaqTag.cs",
+              "RelativeToolTip": "FaqAssistant\\Entities\\FaqTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:45:34.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDtos.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\DTOs\\UserDtos.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\DTOs\\UserDtos.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\DTOs\\UserDtos.cs",
+              "RelativeToolTip": "FaqAssistant\\DTOs\\UserDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:46:40.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\Entities\\Tag.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\Entities\\Tag.cs",
+              "RelativeToolTip": "FaqAssistant\\Entities\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:45:24.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\Entities\\Category.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\Entities\\Category.cs",
+              "RelativeToolTip": "FaqAssistant\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:45:13.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TagDtos.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\DTOs\\TagDtos.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\DTOs\\TagDtos.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\DTOs\\TagDtos.cs",
+              "RelativeToolTip": "FaqAssistant\\DTOs\\TagDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:46:29.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryDtos.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\DTOs\\CategoryDtos.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\DTOs\\CategoryDtos.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\DTOs\\CategoryDtos.cs",
+              "RelativeToolTip": "FaqAssistant\\DTOs\\CategoryDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:46:17.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "202501010001_Initial.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\Data\\Migrations\\202501010001_Initial.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\Data\\Migrations\\202501010001_Initial.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\Data\\Migrations\\202501010001_Initial.cs",
+              "RelativeToolTip": "FaqAssistant\\Data\\Migrations\\202501010001_Initial.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:50:39.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\Controllers\\UsersController.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "FaqAssistant\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:57:12.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\Controllers\\TagsController.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "FaqAssistant\\Controllers\\TagsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:43:29.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FaqsController.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\Controllers\\FaqsController.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\Controllers\\FaqsController.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\Controllers\\FaqsController.cs",
+              "RelativeToolTip": "FaqAssistant\\Controllers\\FaqsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:42:58.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "F:\\Project\\FaqAssistant\\FaqAssistant\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "FaqAssistant\\Controllers\\CategoriesController.cs",
+              "ToolTip": "F:\\Project\\FaqAssistant\\FaqAssistant\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "FaqAssistant\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:43:17.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
