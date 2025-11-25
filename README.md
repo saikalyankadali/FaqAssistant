@@ -1,4 +1,4 @@
-# FAQ Assistant – ASP.NET Core (.NET 8)
+﻿# FAQ Assistant – ASP.NET Core (.NET 8)
 
 A backend system for managing FAQs with search, categorization, tagging, and AI-generated draft answers using the OpenRouter API.
 
@@ -38,6 +38,24 @@ A backend system for managing FAQs with search, categorization, tagging, and AI-
 - Using Visual Studio Package Manager Console: Update-Database
 - Or using .NET CLI: dotnet ef database update
 - This will create the database FaqAssistantDb with all tables.
+
+## API Endpoints
+
+- Swagger UI available at:
+- https://localhost:5001/swagger
+
+## Available Endpoints
+
+### FAQ Endpoints
+
+| Method | Endpoint                 | Description        |
+|--------|---------------------------|---------------------|
+| **GET**    | `/api/faqs`                 | Get all FAQs        |
+| **GET**    | `/api/faqs?search=keyword`  | Search FAQs by text |
+| **POST**   | `/api/faqs`                 | Create a new FAQ    |
+| **PUT**    | `/api/faqs/{id}`            | Update an existing FAQ |
+| **DELETE** | `/api/faqs/{id}`            | Delete a FAQ        |
+| **AISuggest** | `api/ai/suggest`            | AI Suggestion        |
 
 ## Run the API
 
